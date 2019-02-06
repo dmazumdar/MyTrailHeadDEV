@@ -167,7 +167,6 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>dmazumdar@deloitte.co.uk.vzwretail.prod</runningUser>
     <textColor>#000000</textColor>
     <title>LiveText Dashboard V2</title>
     <titleColor>#000000</titleColor>
